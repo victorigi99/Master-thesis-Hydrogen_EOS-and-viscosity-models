@@ -18,6 +18,7 @@ The repository includes:
 - Scripts for running simulations and case studies related to the thesis
 - Data processing scripts
 - Our preliminary project thesis and final master thesis document
+- Experimental data used to validate models both from the project thesis and master thesis
 
 ## License
 

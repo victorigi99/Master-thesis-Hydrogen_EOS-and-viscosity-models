@@ -1,0 +1,11 @@
+﻿Author:,Kestin et al.,,,,,,
+Title:,"The transport properties of binary mixtures of hydrogen with CO, CO2 and CH4",,,,,,
+,,,,273.15,,,
+,,,atm to Mpa factor:,0.101325,,P to Pa*s factor:,0.1
+0.3476H2 + 0.6524CH4,,,,,,,
+T [K] ,P [Mpa],eta [µPa*s],,,,,
+295.15,0.1,11.15,,,,,
+303.15,0.1,11.39,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

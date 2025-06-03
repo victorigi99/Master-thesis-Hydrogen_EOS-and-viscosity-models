@@ -1,0 +1,12 @@
+﻿Author:,Kestin et al.,,,,,,
+Title:,Viscosity of the binary gaseous mixtures He-Ne and Ne-N2 in the temperature range 25-700°C,,,,,,
+,,,Celsius to K:,273.15,,,
+,,,atm to Mpa factor:,0.101325,,P to Pa*s factor:,0.1
+Pure Helium,,,,,,,
+T [K] ,P [Mpa],eta [µPa*s],,,,,
+298.15,0.1,19.85,,,,,
+373.15,0.1,23.18,,,,,
+473.15,0.1,27.39,,,,,
+673.15,0.1,35.15,,,,,
+,,,,,,,
+,,,,,,,

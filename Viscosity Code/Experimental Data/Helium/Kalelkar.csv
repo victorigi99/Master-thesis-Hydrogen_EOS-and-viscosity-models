@@ -1,0 +1,11 @@
+﻿Author:,Kalelkar and Kestin,,,,,,
+Title:,Viscosity of He-Ar and He-Kr binary gaseous mixtures in the temperature range 25-720 °C,,,,,,
+,,,Celsius to K:,273.15,,,
+,,,atm to Mpa factor:,0.101325,,P to Pa*s factor:,0.1
+Pure Helium,,,,,,,
+T [K] ,P [Mpa],eta [µPa*s],,,,,
+298.15,0.1,19.86,,,,,
+373.15,0.1,23.17,,,,,
+473.15,0.1,27.36,,,,,
+573.15,0.1,31.33,,,,,
+673.15,0.1,35.03,,,,,
